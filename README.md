@@ -10,7 +10,7 @@
 
 :mortar_board: I am currently a MSc in Statistics student at National University of Singapore. I graduated from Nanyang Technological University Singapore (NTU) with a Bachelor in Mathematical Sciences (Statistics) in 2018. 
 
-:love_hotel: I am a Data Scientist and I have strong interest in the domain of Machine Learning as well as creating web applications. I am currently working in the public service and I am mainly involve in analytics and automation projects. 
+:love_hotel: I am a Data Scientist and I have strong interest in the domain of Machine Learning as well as creating web applications. I am currently working in the public service.
 
 :green_book: I am currently reading "Effective Pandas" by Matt Harrison and "Designing Machine Learning Systems" by Chip Huyen
 
