@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi I am Joanna Khek Cuina :wave:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-%231877F2.svg?style=for-the-badge&logo=Tableau&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/streamlit-f64363?style=for-the-badge&logo=streamlit&logoColor=white)
 
-<!--
-**Joanna-Khek/Joanna-Khek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:scroll: Visit my portfolio page here: [https://joanna-khek.github.io/](https://joanna-khek.github.io/)
 
-Here are some ideas to get you started:
+:mortar_board: I am currently a MSc in Statistics student at National University of Singapore. I graduated from Nanyang Technological University Singapore (NTU) with a Bachelor in Mathematical Sciences (Statistics) in 2018. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:love_hotel: I am a Data Scientist and I have strong interest in the domain of Machine Learning as well as creating web applications. I am currently working in the public service and I am mainly involved in analytics and automation projects. 
+
+:green_book: I am currently reading "Effective Pandas" by Matt Harrison and "Designing Machine Learning Systems" by Chip Huyen
+
+:mailbox_closed: Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/joannakhek/)!
