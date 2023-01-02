@@ -8,7 +8,7 @@
 
 :scroll: Visit my portfolio page here: [https://joanna-khek.github.io/](https://joanna-khek.github.io/)
 
-:mortar_board: I am currently a MSc in Statistics student at National University of Singapore. I graduated from Nanyang Technological University Singapore (NTU) with a Bachelor in Mathematical Sciences (Statistics) in 2018. 
+:mortar_board: I obtained my MSc in Statistics from National University of Singapore (NUS) in 2022 and BSc in Mathematical Sciences from Nanyang Technological University (NTU) in 2018. I am a machine learning enthusiast and have an interest in creating web applications!
 
 :love_hotel: I am a Data Scientist and I have strong interest in the domain of Machine Learning as well as creating web applications.
 
