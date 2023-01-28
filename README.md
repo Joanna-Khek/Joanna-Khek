@@ -12,8 +12,8 @@
 
 :love_hotel: I am a Data Scientist and I have strong interest in the domain of Machine Learning as well as creating web applications.
 
-📖 I am currently reading [Practical Statistics for Data Scientists](https://www.oreilly.com/library/view/practical-statistics-for/9781491952955/) by Peter Bruce & Andrew Bruce. 
+📖 I am currently reading [Applied Predictive Modeling](https://www.amazon.com/Applied-Predictive-Modeling-Max-Kuhn/dp/1461468485) by Kuhn and Johnson.
 
-:green_book: I recently read [Effective Pandas](https://www.amazon.com/Effective-Pandas-Patterns-Manipulation-Treading/dp/B09MYXXSFM) by Matt Harrison and [Designing Machine Learning Systems](https://www.amazon.sg/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969/ref=asc_df_1098107969/?tag=googleshoppin-22&linkCode=df0&hvadid=405606626615&hvpos=&hvnetw=g&hvrand=9934474203900425110&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9062548&hvtargid=pla-1688018801992&psc=1) by Chip Huyen
+:green_book: I recently read [Effective Pandas](https://www.amazon.com/Effective-Pandas-Patterns-Manipulation-Treading/dp/B09MYXXSFM) by Matt Harrison, [Designing Machine Learning Systems](https://www.amazon.sg/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969/ref=asc_df_1098107969/?tag=googleshoppin-22&linkCode=df0&hvadid=405606626615&hvpos=&hvnetw=g&hvrand=9934474203900425110&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9062548&hvtargid=pla-1688018801992&psc=1) by Chip Huyen and [Practical Statistics for Data Scientists](https://www.oreilly.com/library/view/practical-statistics-for/9781491952955/) by Peter Bruce & Andrew Bruce. 
 
 :mailbox_closed: Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/joannakhek/)!
