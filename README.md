@@ -8,10 +8,10 @@
 
 :scroll: Visit my portfolio page here: [https://joanna-khek.github.io/](https://joanna-khek.github.io/)
 
-:mortar_board: I obtained my MSc in Statistics from National University of Singapore (NUS) in 2022 and BSc in Mathematical Sciences from Nanyang Technological University (NTU) in 2018. I am a machine learning enthusiast and have an interest in creating web applications!
+:mortar_board: I'm currently pursing MSc in Computer Science from Georgia Institute of Technology. I obtained my MSc in Statistics from National University of Singapore (NUS) in 2022 and BSc in Mathematical Sciences from Nanyang Technological University (NTU) in 2018. I am a machine learning enthusiast and have an interest in creating web applications!
 
 :love_hotel: I am a Data Scientist and I have strong interest in the domain of Machine Learning as well as creating web applications.
 
-📖 I am currently reading [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch) by Sebastian Raschka
+📖 I am currently reading [Hands-On Large Language Models](https://www.amazon.com/Hands-Large-Language-Models-Understanding/dp/1098150961) by Jay Alammar & Maarten Grootendorst
 
 :mailbox_closed: Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/joannakhek/)!
