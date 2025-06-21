@@ -12,6 +12,6 @@
 
 :love_hotel: I am a Data Scientist and I have strong interest in the domain of Machine Learning as well as creating web applications.
 
-📖 I am currently reading [Hands-On Large Language Models](https://www.amazon.com/Hands-Large-Language-Models-Understanding/dp/1098150961) by Jay Alammar & Maarten Grootendorst
+📖 I am currently reading [AI Engineering](https://learning.oreilly.com/library/view/ai-engineering/9781098166298/) by Chip Huyen
 
 :mailbox_closed: Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/joannakhek/)!
